@@ -85,13 +85,22 @@ barChart.invalidate() //redraw chart
 ## Ostali Grafi
 [**MPAndroidChart More Examples**](https://github.com/PhilJay/MPAndroidChart/tree/master?tab=readme-ov-file#more-examples-1)
 
-## Utemeljitev izbire
-Grafe sem hotel dodati 2. aplikaciji pri vajah PORA, da bi bolje prikazal zbrane podatke.
+## Utemeljitev izbire, uporaba v lastnem projektu
++ Grafe sem hotel dodati 2. aplikaciji pri vajah PORA, da bi bolje prikazal podatke.
 
++ Namen aplikacije je sledenje stroškov uporabnika, njegovih računov in naročnin.
+
+<img src='screenshots/Integration.png' height="1000px" alt='integration screenshot' />
 
 ## Prednosti
++ Podpira veliko vrst grafov.
++ Ima ogromno nastavitev za prilagajanje.
++ Vgrajena podpora za delo na dotik (približevanje, označevanje ...)
 
 ## Slabosti
++ Dokumentacija ni najboljša
++ Zelo osnovni grafi še vseeno potrebujejo precej kode
++ Možni performančni problemi pri velikih količinah podatkov
 
 ## Ostali osnovni podatki
 ### Licenca
